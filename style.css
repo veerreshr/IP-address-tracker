@@ -10,7 +10,7 @@ body {
 }
 #bg1 {
   background: url("./images/pattern-bg.png");
-  height: 31vh;
+  height: 30vh;
   width: 100vw;
   display: flex;
   flex-direction: column;
@@ -25,14 +25,14 @@ body {
   position: relative;
   color: white;
   font-weight: 400;
-  margin-top: 2%;
+  margin-top: 1%;
   font-family: "Rubik", sans-serif;
 }
 .input {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 2%;
+  margin-top: 1%;
   width: 35%;
 }
 input {
@@ -53,7 +53,7 @@ input {
 .card {
   position: absolute;
   width: 80%;
-  height: 60%;
+  height: 50%;
   background-color: white;
   margin-top: 2%;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
