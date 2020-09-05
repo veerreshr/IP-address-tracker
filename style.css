@@ -25,14 +25,14 @@ body {
   position: relative;
   color: white;
   font-weight: 400;
-  margin-top: 1%;
+  margin-top: 2%;
   font-family: "Rubik", sans-serif;
 }
 .input {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 1%;
+  margin-top: 2%;
   width: 35%;
 }
 input {
