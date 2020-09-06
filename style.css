@@ -20,6 +20,7 @@ body {
   background-repeat: no-repeat;
   font-family: "Rubik", sans-serif;
   overflow: visible;
+  min-height: 300px;
 }
 .title {
   position: relative;
